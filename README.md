@@ -1,6 +1,6 @@
 # YandexMaps
 
-## Warning
+### Warning
 Before running this app, make sure that you installed pods, they were deintegrated.
 Also run the app on iphone 8/se(2nd gen). I could't get sizes of UI elements in correctly.
 
